@@ -9,7 +9,7 @@ Setup
 Add this extension to your Gemfile:
 
 ```ruby
-gem 'solidus_conekta', github: 'jtapia/solidus_conekta'
+gem 'solidus_conekta', github: 'crsmillan/solidus_conekta'
 ```
 
 Then run:
